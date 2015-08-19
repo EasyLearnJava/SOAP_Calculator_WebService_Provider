@@ -10,6 +10,6 @@ The two WSDLS shown are
 
 Download SoapUI and test the WSDL's
 
-To generate client side classes use
+To generate client side classes from command prompt use
 * wsimport -keep http://localhost:8080/SOAP_Calculator_WebService_Provider/calc?wsdl
 * wsimport -keep http://localhost:8080/SOAP_Calculator_WebService_Provider/icalc?wsdl
